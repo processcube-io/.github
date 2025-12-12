@@ -6,7 +6,7 @@
 
 ## 🎯 Was ist ProcessCube?
 
-ProcessCube ist eine **umfassende Enterprise-Plattform** für die Automatisierung, Optimierung und Verwaltung von Geschäftsprozessen. Entwickelt mit dem Fokus auf Flexibilität und Benutzerfreundlichkeit, ermöglicht ProcessCube Unternehmen jeder Größe, ihre Workflows zu digitalisieren und zu automatisieren – ohne Code oder mit minimaler technischer Komplexität.
+ProcessCube ist eine **umfassende Plattform** für die Automatisierung, Optimierung und Verwaltung von Geschäftsprozessen. Entwickelt mit dem Fokus auf Flexibilität und Benutzerfreundlichkeit, ermöglicht ProcessCube Unternehmen jeder Größe, ihre Workflows zu digitalisieren und zu automatisieren – ohne Code oder mit minimaler technischer Komplexität.
 
 Ob du Prozesse **dokumentieren**, **automatisieren** oder **optimieren** möchtest – ProcessCube ist dein Partner für echte digitale Transformation.
 
@@ -20,7 +20,6 @@ Ob du Prozesse **dokumentieren**, **automatisieren** oder **optimieren** möchte
 | 🎨 **Visuelle Modellierung** | Gestalte Prozesse intuitiv per Drag-and-Drop. Keine technischen Kenntnisse erforderlich – ideal für Business- und IT-Zusammenarbeit. |
 | 🔗 **Integration & Konnektivität** | Nahtlose Verbindung zu ERP, CRM, HR-Systemen, Cloud-Services und beliebigen APIs. Daten fließen mühelos zwischen deinen Systemen. |
 | 📊 **Echtzeit-Monitoring & Analytics** | Echtzeit-Dashboards und detaillierte Reports geben dir sofort Einblick in Prozessleistung, Engpässe und Optimierungspotenziale. |
-| 📈 **Enterprise-Skalierbarkeit** | Hochverfügbar und zuverlässig: von Hunderten bis zu Millionen von Prozessinstanzen ohne Performance-Einbußen. |
 
 ---
 
@@ -45,11 +44,11 @@ Wir unterstützen eine Vielzahl von Industrien und Szenarien:
 
 ## 🏆 Warum ProcessCube?
 
-✅ **Schnelle Implementierung** – Starte sofort, nicht irgendwann
-✅ **Low-Code/No-Code** – Minimale Entwicklung, maximale Geschwindigkeit
-✅ **Transparent & nachverfolgbar** – Volle Kontrolle über jeden Prozessschritt
-✅ **Zukunftssicher** – Modern, scalable, ready for Enterprise
-✅ **Community & Support** – Aktive Community und zuverlässiger Support
+- ✅ **Schnelle Implementierung** – Starte sofort, nicht irgendwann
+- ✅ **Low-Code/No-Code** – Minimale Entwicklung, maximale Geschwindigkeit
+- ✅ **Transparent & nachverfolgbar** – Volle Kontrolle über jeden Prozessschritt
+- ✅ **Zukunftssicher** – Modern, scalable, ready for Enterprise
+- ✅ **Community & Support** – Aktive Community und zuverlässiger Support
 
 ---
 
