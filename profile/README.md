@@ -29,8 +29,10 @@ Wir unterstützen eine Vielzahl von Industrien und Szenarien:
 
 ```
 📄 Dokumentenverarbeitung     🤝 HR & Recruiting
-🛒 Customer Journey            ✅ Compliance & Governance
+🛒 Customer Journey           ✅ Compliance & Governance
 🏭 Produktionsmanagement      🎫 Servicemanagement & Ticketing
+
+und viele mehr ...
 ```
 
 **Konkrete Beispiele:**
