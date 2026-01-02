@@ -1,4 +1,4 @@
-# 🚀 ProcessCube – Die Plattform für intelligente Prozessautomatisierung
+# 🚀 ProcessCube – Intelligente Prozessautomatisierungs-Plattform
 
 > **Transformiere deine Geschäftsprozesse in hochautomatisierte, datengesteuerte Workflows – schnell, zuverlässig und skalierbar.**
 
